@@ -1,0 +1,28 @@
+01/01/2000|INFO|Sistema|Sistema inicializado
+21/06/2024|WARNING|Base de datos|Conexión lenta
+21/06/2024|ERROR|Sistema|Fallo del sistema
+22/06/2024|INFO|Usuario|Usuario conectado
+22/06/2024|WARNING|Sistema|Uso elevado de memoria
+23/06/2024|ERROR|Base de datos|Consulta agotada
+23/06/2024|INFO|Sistema|Verificación rutinaria completada
+24/06/2024|WARNING|Usuario|Intento de inicio de sesión no válido
+24/06/2024|INFO|Base de datos|Copia de seguridad completada
+25/06/2024|ERROR|Sistema|Apagado inesperado
+25/06/2024|INFO|Red|Verificación de red completada
+25/06/2024|WARNING|Red|Pérdida de paquetes detectada
+25/06/2024|ERROR|Red|Conexión perdida
+26/06/2024|INFO|Sistema|Sistema reiniciado
+26/06/2024|WARNING|Seguridad|Actividad sospechosa detectada
+26/06/2024|ERROR|Seguridad|Brecha detectada
+27/06/2024|INFO|Sistema|Actualización instalada
+27/06/2024|WARNING|Usuario|Contraseña a punto de expirar
+27/06/2024|ERROR|Base de datos|Datos corruptos
+28/06/2024|INFO|Sistema|Mantenimiento completado
+28/06/2024|WARNING|Sistema|Sobrecalentamiento
+28/06/2024|ERROR|Sistema|Fallo crítico
+29/06/2024|INFO|Usuario|Perfil actualizado
+29/06/2024|WARNING|Sistema|Espacio en disco bajo
+29/06/2024|ERROR|Red|Conflicto de IP detectado
+30/06/2024|INFO|Base de datos|Optimización completa
+30/06/2024|WARNING|Usuario|Varios intentos fallidos de inicio de sesión
+30/06/2024|ERROR|Seguridad|Acceso no autorizado
